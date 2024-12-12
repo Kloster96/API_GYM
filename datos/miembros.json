@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nombre": "Luciano",
+        "apellido": "Kloster",
+        "fecha_nacimiento": "1996-10-28",
+        "plan": "Anual"
+    },
+    {
+        "id": 2,
+        "nombre": "Mateo",
+        "apellido": "Kloster",
+        "fecha_nacimiento": "1996-10-28",
+        "plan": "Anual"
+    },
+    {
+        "id": 3,
+        "nombre": "Juan",
+        "apellido": "P\u00e9rez",
+        "fecha_nacimiento": "1995-06-15",
+        "plan": "Mensual"
+    },
+    {
+        "id": 5,
+        "nombre": "Esmeralda",
+        "apellido": "Sanchez",
+        "fecha_nacimiento": "1990-05-15",
+        "plan": "Premium"
+    }
+]

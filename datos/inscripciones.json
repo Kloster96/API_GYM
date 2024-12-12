@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "miembro_id": 1,
+        "clase_id": 1,
+        "fecha_inscripcion": "2024-12-11T10:30:00"
+    },
+    {
+        "id": 2,
+        "miembro_id": 2,
+        "clase_id": 1,
+        "fecha_inscripcion": "2024-12-11T10:30:00"
+    },
+    {
+        "id": 3,
+        "miembro_id": 2,
+        "clase_id": 1,
+        "fecha_inscripcion": "2024-12-11T10:30:00"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nombre": "Carlos",
+        "especialidad": "Fuerza",
+        "email": "carlos@fitness.com"
+    },
+    {
+        "id": 2,
+        "nombre": "Marcelo",
+        "especialidad": "aerobico",
+        "email": "marcelo@fitness.com"
+    }
+]
